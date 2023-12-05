@@ -21,8 +21,8 @@ public class LoginPage {
 	}
 	
 	public void enterLoginDetails() {
-		Txtbox_Username.sendKeys("Beena12@gmail.com");
-		Txtbox_Password.sendKeys("Beena123");
+		Txtbox_Username.sendKeys("sharath1@gmail.com");
+		Txtbox_Password.sendKeys("812566");
 	}
 	
 	public void clickLoginsubmitButton() {

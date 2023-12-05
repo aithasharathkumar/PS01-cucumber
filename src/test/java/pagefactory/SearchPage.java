@@ -44,8 +44,8 @@ public class SearchPage {
 	
 	public void ClickLoginLink() {
 		loginpage.click();
-		Txt_Username.sendKeys("Beena12@gmail.com");
-		Txt_Password.sendKeys("Beena123");
+		Txt_Username.sendKeys("sharath1@gmail.com");
+		Txt_Password.sendKeys("812566");
 		Bttn_login.click();
 	}
 	
